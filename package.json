@@ -1,0 +1,14 @@
+{
+  "name": "calculadora-nodejs",
+  "version": "1.0.0",
+  "description": "calculadora desde la consola con nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateo Gómez Fleytas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
